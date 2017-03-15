@@ -69,8 +69,6 @@ If you know a language other than English, consider contributing translations th
 You can also help by improving this documentation.
 
 ## Downloading builds
-Per-commit debug builds can be found on [CircleCI](https://circleci.com/gh/opendatakit/collect). Login with your GitHub account, click the build you'd like, then find the APK in the Artifacts tab.
-
 Current and previous production builds can be found on the [ODK website](https://opendatakit.org/downloads/download-info/odk-collect-apk).
 
 ## Troubleshooting
